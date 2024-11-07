@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/Vivan-1045](www.github.com/Vivan-1045)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **vivan100123@gmail.com**
 
