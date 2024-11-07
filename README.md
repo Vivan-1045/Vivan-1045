@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/Vivan-1045](www.github.com/Vivan-1045)
 
-- 💬 Ask me about **java**
-
 - 📫 How to reach me **vivan100123@gmail.com**
 
 - ⚡ Fun fact **The original name for Java was "Oak," inspired by an oak tree outside the developer's window**
