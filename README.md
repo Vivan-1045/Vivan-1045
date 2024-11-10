@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **The original name for Java was "Oak," inspired by an oak tree outside the developer's window**
 
+- Gssoc leaderboard
+<a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Vivan-1045" >Gssoc leaderboard
+<a</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivek-kumar-685808298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kumar-685808298" height="30" width="40" /></a>
