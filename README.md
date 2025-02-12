@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [InterPrep](www.Github.com/Vivan-1045/interprep)
 
-- 🌱 I’m currently learning **Express js**
+- 🌱 I’m currently learning **Next-js**
 
 - 👨‍💻 All of my projects are available at [www.github.com/Vivan-1045](www.github.com/Vivan-1045)
 
