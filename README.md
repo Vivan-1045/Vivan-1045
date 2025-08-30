@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivan-1045&label=Profile%20views&color=0e75b6&style=flat" alt="vivan-1045" /> </p>
 
-- 🌱 I’m currently learning **Next-js**
+- 🌱 I’m currently working on **full-stack** project.
 
 - 👨‍💻 All of my projects are available at [www.github.com/Vivan-1045](www.github.com/Vivan-1045)
 
